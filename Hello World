@@ -1,0 +1,8 @@
+#include <stdio.h>
+#DFEINE _CRT_SECURE_NO_WARINGS
+
+int main()
+{
+  printf("Hello");
+	return 0;
+}
